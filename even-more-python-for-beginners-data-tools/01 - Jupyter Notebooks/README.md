@@ -16,3 +16,6 @@ Jupyter Notebooks are an open source web application that allows you to create a
 Explore related tutorials on [Microsoft Learn](https://learn.microsoft.com/?WT.mc_id=python-c9-niner).
 
 - [Intro to machine learning with Python and Azure Notebooks](https://docs.microsoft.com/learn/paths/intro-to-ml-with-python/?WT.mc_id=python-c9-niner)
+
+## Entendido
+
