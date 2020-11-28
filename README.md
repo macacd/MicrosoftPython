@@ -1,5 +1,6 @@
 # Getting started with Python
 
+
 ## Overview
 
 These three series on Channel 9 and YouTube are designed to help get you up to speed on Python. If you're a beginning developer looking to add Python to your quiver of languages or trying to get started on data science or web project which uses Python, these videos are here to help show you the foundations necessary to walk through a tutorial or other quick start.
